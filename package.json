@@ -1,0 +1,22 @@
+{
+  "name": "capstant",
+  "version": "1.0.0",
+  "description": "capture instant",
+  "main": "./lib/capstant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/capstant.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/capstant/issues"
+  },
+  "homepage": "https://github.com/phi-jp/capstant#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.4"
+  }
+}
