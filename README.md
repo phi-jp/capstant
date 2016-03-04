@@ -21,6 +21,10 @@ capstant.shot('http://google.com', './output/google.png').then(function(url) {
   console.log('finish');
 });
 
+```
+
+```js
+
 capstant.shot('http://phiary.me', './output/phiary2.png', {
   phantomPath: 'slimerjs',
   delay: 1200,
