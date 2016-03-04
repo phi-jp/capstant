@@ -2,6 +2,15 @@
 capture instant
 node.js module
 
+## Setup
+
+On Mac OS X
+
+```
+$ brew install imagemagick
+```
+
+
 ## Install
 
 ```
