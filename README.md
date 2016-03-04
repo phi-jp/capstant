@@ -48,6 +48,14 @@ capstant.shot('http://phiary.me', './output/phiary2.png', {
 });
 ```
 
+## For Developer
+
+### Test
+
+```
+$ node test/test.js
+```
+
 ## License
 
 MIT
