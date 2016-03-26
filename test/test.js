@@ -13,6 +13,7 @@ capstant.shot('http://phiary.me', './output/phiary1.png', {
     width: 640,
     height: 480,
   },
+  zoom: 2,
 }).then(function(url) {
   console.log(arguments);
 });
