@@ -1,6 +1,6 @@
 {
   "name": "capstant",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "capture instant",
   "main": "./lib/capstant.js",
   "scripts": {
